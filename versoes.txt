@@ -3,3 +3,5 @@ Praticando !
 Praticando novamente !
 novamente !
 outra vez !
+
+Teste aula git
